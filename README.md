@@ -10,15 +10,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - 📚 **Hobbies:** Reading, hiking, and tinkering with side projects.
 
 ## 💻 Tech Stack
-- **Languages:** JavaScript, Python, TypeScript, [add more...]
-- **Frameworks & Libraries:** React, Node.js, Express, [add more...]
+- **Languages:** JavaScript, TypeScript
+- **Frameworks & Libraries:** TanStack, React, Next.js, Node.js, Express
 - **Tools & Platforms:** GitHub, Docker, AWS, CI/CD pipelines
-- **Databases:** MongoDB, PostgreSQL, MySQL
-
-## 🌟 Highlights
-- 🔧 **Open-source contributions:** [Link to any notable projects or contributions].
-- 🛠️ **Projects:** [Add links to key repositories or personal projects].
-- 🏆 **Achievements:** [Add details about certifications, awards, or recognitions].
+- **Databases:** SQLite MongoDB, PostgreSQL, MySQL
 
 ## 📫 Let's Connect
 - **GitHub:** [AustinNChristensen](https://github.com/AustinNChristensen)
